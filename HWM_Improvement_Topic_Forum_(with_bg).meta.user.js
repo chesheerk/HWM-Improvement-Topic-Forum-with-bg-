@@ -10,7 +10,7 @@
 // @include         *//*.heroeswm.*/forum_messages.php?tid=*
 // @include         *//178.248.235.15/forum_messages.php?tid=*
 // @include         *//*.lordswm.*/forum_messages.php?tid=*
-// @require         http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
+// @require         http://code.jquery.com/jquery-3.3.1.min.js
 // @resource        bt http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css
 // @resource        default_avatar http://i.imgur.com/24ymGJQ.jpg
 // @homeURL         https://openuserjs.org/scripts/chesheerk/HWM_Improvement_Topic_Forum_(with_bg)
